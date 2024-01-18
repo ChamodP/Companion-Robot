@@ -46,3 +46,8 @@ python your_main_file.py
 - Connect the necessary hardware components (servos, sensors) to your Raspberry Pi.
 - Ensure that the required dependencies are installed.
 - Run the main Python script to start the Emotion Bot.
+
+## Other Collaborators
+
+[SripaliManimekala]([https://www.example.com](https://github.com/SripaliManimekala))
+[sulakshiG]([https://www.example.com](https://github.com/sulakshiG)https://github.com/sulakshiG)
