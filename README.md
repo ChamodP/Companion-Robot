@@ -1,4 +1,4 @@
-# Emotion Bot
+# Emotion Bot (a group project)
 
 emotion-responsive robot using Python and a Raspberry Pi, integrating servo motor control and sound playback. 
 The robot can display emotions such as happiness, anger, and sadness based on touch and vibration inputs, 
