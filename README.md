@@ -28,7 +28,7 @@ pip install adafruit-circuitpython-servokit RPi.GPIO Pillow
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/emotion-bot.git
+git clone https://github.com/ChamodP/Companion-Robot.git
 ```
 2. Change to the project directory:
 
