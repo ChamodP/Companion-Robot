@@ -49,5 +49,5 @@ python your_main_file.py
 
 ## Other Collaborators
 
-[SripaliManimekala]([https://www.example.com](https://github.com/SripaliManimekala))
-[sulakshiG]([https://www.example.com](https://github.com/sulakshiG)https://github.com/sulakshiG)
+[SripaliManimekala](https://github.com/SripaliManimekala)
+[sulakshiG](https://github.com/sulakshiG)
